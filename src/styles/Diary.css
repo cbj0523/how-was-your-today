@@ -1,0 +1,21 @@
+.diaryContainer {
+    width: 100%;
+    border-radius: 15px;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    background-color: rgb(223, 248, 236);
+}
+
+.diaryContainer > h2 {
+    margin: 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.diaryContainer > h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
